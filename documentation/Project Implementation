@@ -1,15 +1,15 @@
-### Phase 1: Virtual Machine Deployment
+Phase 1: Virtual Machine Deployment
 
 Successfully installed and prepared two virtual machines using VMware Workstation.
 
-**Virtual Machines:**
+Virtual Machines:
 - Windows Server 2025 – Intended Domain Controller
 - Windows 11 – Intended Domain Client
 
-**Objective:**
+Objective:
 
 Establish a virtualized Windows environment that will be used to configure and test Active Directory Domain Services.
 
-**Status:** Initial virtual machine deployment completed.
+Status: Initial virtual machine deployment completed.
 
-**Evidence:** Screenshots of both virtual machines will be included in the project repository.
+Evidence: Screenshots of both virtual machines will be included in the project repository.
