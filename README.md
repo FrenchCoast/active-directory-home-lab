@@ -37,7 +37,7 @@ The goal is to gain hands-on experience with Windows Server administration, Acti
 
 - [x] Install Windows Server 2025.
 - [x] Create Windows 11 client virtual machine.
-- [ ] Configure VMware networking.
+- [x] Configure VMware networking.
 - [ ] Configure a static IP address for the server.
 - [ ] Install Active Directory Domain Services.
 - [ ] Promote server to Domain Controller.
@@ -62,7 +62,6 @@ Created two virtual machines using VMware Workstation:
 
 ### Phase 2: Network Configuration
 
-*In progress.*
 
 Planned configuration:
 
@@ -73,7 +72,7 @@ Planned configuration:
 
 ### Phase 3: Active Directory Configuration
 
-*Upcoming.*
+
 
 - Install Active Directory Domain Services.
 - Create a new Active Directory forest.
@@ -82,7 +81,7 @@ Planned configuration:
 
 ### Phase 4: User and Group Management
 
-*Upcoming.*
+
 
 - Create organizational units.
 - Create test employee accounts.
@@ -91,7 +90,6 @@ Planned configuration:
 
 ### Phase 5: Client Domain Integration
 
-*Upcoming.*
 
 - Configure Windows 11 DNS settings.
 - Join the client to the Active Directory domain.
