@@ -22,10 +22,15 @@ The goal is to gain hands-on experience with Windows Server administration, Acti
 ## Lab Environment
 
 | Component | Purpose |
+
 | Windows Server 2025 | Domain Controller |
+
 | Windows 11 VM | Client workstation |
+
 | VMware Workstation | Virtualization platform |
+
 | Active Directory | Centralized user management |
+
 | DNS | Domain name resolution |
 
 ## Project Objectives
