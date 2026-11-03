@@ -46,8 +46,8 @@ The goal is to gain hands-on experience with Windows Server administration, Acti
 - [x] Create domain user accounts.
 - [x] Configure security groups.
 - [x] Join Windows 11 client to the domain.
-- [ ] Test domain authentication.
-- [ ] Practice help desk troubleshooting scenarios.
+- [x] Test domain authentication.
+- [x] Practice help desk troubleshooting scenarios.
 
 ## Project Implementation
 
