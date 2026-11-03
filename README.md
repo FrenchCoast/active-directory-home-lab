@@ -38,14 +38,14 @@ The goal is to gain hands-on experience with Windows Server administration, Acti
 - [x] Install Windows Server 2025.
 - [x] Create Windows 11 client virtual machine.
 - [x] Configure VMware networking.
-- [ ] Configure a static IP address for the server.
-- [ ] Install Active Directory Domain Services.
-- [ ] Promote server to Domain Controller.
-- [ ] Configure DNS.
-- [ ] Create organizational units.
-- [ ] Create domain user accounts.
-- [ ] Configure security groups.
-- [ ] Join Windows 11 client to the domain.
+- [x] Configure a static IP address for the server.
+- [x] Install Active Directory Domain Services.
+- [x] Promote server to Domain Controller.
+- [x] Configure DNS.
+- [x] Create organizational units.
+- [x] Create domain user accounts.
+- [x] Configure security groups.
+- [x] Join Windows 11 client to the domain.
 - [ ] Test domain authentication.
 - [ ] Practice help desk troubleshooting scenarios.
 
@@ -103,8 +103,7 @@ Planned configuration:
 - Active Directory administration
 - DNS configuration
 - User account management
-- Password resets and account unlocks
-- Domain authentication troubleshooting
+
 
 ## Screenshots & Documentation
 
