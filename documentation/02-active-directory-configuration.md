@@ -29,7 +29,7 @@ After installing AD DS, the server was promoted to a Domain Controller.
 
 The promotion process involved configuring the Active Directory domain and forest.
 
-**Domain Name:** [Enter your actual domain name]
+**Domain Name:** [FileServer01]
 
 The server was configured to provide centralized authentication and directory services for the lab.
 
