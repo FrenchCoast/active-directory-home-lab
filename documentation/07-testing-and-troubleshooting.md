@@ -113,4 +113,4 @@ The Windows 11 client successfully communicated with the Windows Server 2025 Dom
 
 Active Directory Users and Computers also confirmed that the `COMPUTER01` computer account exists within the `HOMELAB.LOCAL` domain.
 
-This phase demonstrated practical experience with network connectivity testing, Active Directory management, and basic troubleshooting.
+This phase demonstrated practical experience with network connectivity testing, Active Directory management,and basic troubleshooting.
